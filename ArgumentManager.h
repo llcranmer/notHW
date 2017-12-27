@@ -97,3 +97,4 @@ ostream& operator << (ostream &out, ArgumentManager &am) {
 }
 
 #endif /* ArgumentManager_h */
+
